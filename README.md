@@ -10,4 +10,4 @@ Para executar no linux instale os seguindos pacotes digitando no terminal:
 
 Obs: recomendo criar um environment separado para tal aplicação.
 
-## Executar o run.py, aparecerá o menu com as opções
+## Executando o run.py, aparecerá o menu com as opções
